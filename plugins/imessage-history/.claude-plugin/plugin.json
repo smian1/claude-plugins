@@ -1,0 +1,13 @@
+{
+  "name": "imessage-history",
+  "version": "1.0.0",
+  "description": "Search, export and analyze your local iMessage history: conversations, group chats, attachments and stats. macOS only, read-only.",
+  "author": {
+    "name": "Salman",
+    "url": "https://github.com/smian1"
+  },
+  "homepage": "https://github.com/smian1/claude-plugins/tree/main/plugins/imessage-history",
+  "repository": "https://github.com/smian1/claude-plugins",
+  "license": "MIT",
+  "keywords": ["imessage", "messages", "macos", "export", "attachments", "stats"]
+}
